@@ -1,0 +1,1365 @@
+﻿id,isolate,aliases,country,continent,region,year,source,NCBI_BioProject,comments,sender,curator,date_entered,datestamp,FKS,LEU2,NMT1,TRP1,UGP1,URA3,ST (MLST)
+1,ATCC 90030,SRR3146184; Y1644_ERR1938086,USA,North America,Iowa,,blood,,see database history for comment on Y1644_ERR1938086 (PMID 31059831),2,4,2016-02-05,2019-09-12,8,4,3,5,1,2,10
+2,CE-01,,Switzerland,Europe,,,unknown,,,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+3,CE-02,,Switzerland,Europe,,,unknown,,,2,4,2016-02-05,2019-08-17,1,2,2,7,2,1,9
+4,CE-03,,Belgium,Europe,,,faeces,,,2,4,2016-02-05,2019-08-17,5,7,8,1,3,6,5
+5,CE-04,,Belgium,Europe,,,vaginal swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+6,CE-05,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+7,CE-06,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+8,CE-07,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+9,CE-08,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+10,CE-09,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+11,CE-10,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+12,CE-11,,Germany,Europe,,,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+13,CE-12,,Belgium,Europe,,,anal swab,,Vaginitis Pt,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+14,CE-13,,Belgium,Europe,,,vaginal swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+15,CE-14,,Belgium,Europe,,,vaginal swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+16,CE-15,,Belgium,Europe,,,vaginal swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+17,CE-16,,Belgium,Europe,,,vaginal swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+18,CE-17,,Belgium,Europe,,,unknown,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+19,CE-18,,The Netherlands,Europe,,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+20,J-01,,Japan,Asia,,,oral swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+21,J-02,,Japan,Asia,,,oral swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+22,J-03,,Japan,Asia,,,blood,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+23,J-04,,Japan,Asia,,,blood,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+24,J-05,,Japan,Asia,,,sputum,,,2,1,2016-02-05,2016-02-05,6,6,5,2,3,4,19
+25,J-06,,Japan,Asia,,,sputum,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+26,J-07,,Japan,Asia,,,nasal swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+27,J-08,,Japan,Asia,,,nasal swab,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+28,J-09,,Japan,Asia,,,faeces,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+29,J-10,,Japan,Asia,,,faeces,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,12,29
+30,J-11,,Japan,Asia,,,unknown,,Secretion,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+31,J-12,,Japan,Asia,,,unknown,,Secretion,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+32,J-13,,Japan,Asia,,,pus,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,13,30
+33,J-14,,Japan,Asia,,,pus,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,13,30
+34,NCPF3309,,Unknown,,,,faeces,,,2,4,2016-02-05,2019-08-07,8,5,3,5,1,1,15
+35,SA-01,,Chile,South America,,,unknown,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+36,SA-02,,Chile,South America,,,medical device,,Catheter,2,1,2016-02-05,2016-02-05,1,2,2,1,1,4,12
+37,SA-03,,Colombia,South America,Bogota,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+38,SA-04,,Colombia,South America,Bogota,,unknown,,Tissue,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+39,SA-05,,Colombia,South America,Bogota,,blood,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+40,SA-06,,Colombia,South America,Bogota,,unknown,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+41,SA-07,,Colombia,South America,Bogota,,ascites,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+42,SA-08,,Colombia,South America,Bogota,,blood,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+43,SA-09,,Colombia,South America,Bogota,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+44,SA-10,,Colombia,South America,Bogota,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+45,SA-11,,Colombia,South America,Bogota,,ascites,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+46,SA-12,,Colombia,South America,Bogota,,joint fluid,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+47,SA-13,,Colombia,South America,Bogota,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+48,SA-14,,Colombia,South America,Bogota,,joint fluid,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+49,SA-15,,Colombia,South America,Bogota,,joint fluid,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+50,SA-16,,Colombia,South America,Bogota,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+51,SA-17,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+52,SA-18,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+53,SA-19,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,20,7,3,6,33
+54,SA-20,,Argentina,South America,Buenos Aires,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+55,SA-21,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+56,SA-22,,Argentina,South America,Buenos Aires,,ascites,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+57,SA-23,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+58,SA-24,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+59,SA-25,,Argentina,South America,Buenos Aires,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+60,SA-26,,Argentina,South America,Buenos Aires,,CSF,,,2,1,2016-02-05,2016-02-05,14,6,9,15,8,14,34
+61,SA-27,,Argentina,South America,Buenos Aires,,CSF,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+62,SA-28,,Brazil,South America,Florianopolis,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+63,SA-29,,Brazil,South America,Florianopolis,,unknown,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+64,SA-30,,Mexico,North America,"Guadalajara,",,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+65,SA-31,,Mexico,North America,Guadalajara,,sputum,,,2,1,2016-02-05,2016-02-05,15,9,19,2,3,4,31
+66,SA-32,,Mexico,North America,Guadalajara,,sputum,,,2,1,2016-02-05,2016-02-05,6,6,5,2,3,4,19
+67,SA-33,,Mexico,North America,Merida,,blood,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+68,SA-34,,Brazil,South America,Porto Alegre,,unknown,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+69,SA-35,,Brazil,South America,Porto Alegre,,unknown,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+70,SA-36,,Ecuador,South America,"Quito,",,ascites,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+71,SA-37,,Ecuador,South America,Quito,,unknown,,Tissue,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+72,SA-38,,Ecuador,South America,Quito,,ascites,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+73,SA-39,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+74,SA-40,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+75,SA-41,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+76,SA-42,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+77,SA-43,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+78,SA-44,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,2,36
+79,SA-45,,Ecuador,South America,Quito,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+80,SA-46,,Ecuador,South America,Quito,,sputum,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+81,SA-47,,Ecuador,South America,Quito,,sputum,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+82,SA-48,,Ecuador,South America,Quito,,sputum,,,2,1,2016-02-05,2016-02-05,3,4,4,3,3,4,7
+83,SA-49,,Ecuador,South America,Quito,,sputum,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+84,SA-50,,Ecuador,South America,Quito,,unknown,,,2,1,2016-02-05,2016-02-05,16,9,18,16,7,16,32
+85,SA-51,,Brazil,South America,Rio de Janeiro,,unknown,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,15,35
+86,SA-52,,Brazil,South America,Rio de Janeiro,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+87,SA-53,,Chile,South America,Santiago,,unknown,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+88,SA-54,,Chile,South America,Santiago,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+89,SA-55,,Chile,South America,Santiago,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+90,SA-56,,Chile,South America,Santiago,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+91,SA-57,,Brazil,South America,Sao Paolo,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+92,SP-01,,Spain,Europe,Galicia,,blood,,,2,1,2016-02-05,2016-02-05,4,2,2,1,2,1,11
+93,SP-02,,Spain,Europe,Castillia-La Mancha,,blood,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+94,SP-03,,Spain,Europe,Almeria,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+95,SP-04,,Spain,Europe,Vizcaya,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+96,SP-05,,Spain,Europe,Canary Islands,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+97,SP-06,,Spain,Europe,Asturias,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+98,SP-07,,Spain,Europe,Albacete,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+99,SP-08,,Spain,Europe,Barcelona,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+100,SP-09,,Spain,Europe,Alicante,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+101,SP-10,,Spain,Europe,Madrid,,unknown,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+102,SP-11,,Spain,Europe,Alicante,,unknown,,,2,1,2016-02-05,2016-02-05,6,6,5,2,3,4,19
+103,SP-12,,Spain,Europe,Tarragona,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+104,SP-13,,Spain,Europe,Pontevedra,,unknown,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+105,SP-14,,Spain,Europe,Albacete,,unknown,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+106,SP-15,,Spain,Europe,Madrid,,unknown,,,2,1,2016-02-05,2016-02-05,11,5,7,5,1,2,14
+107,SP-16,,Spain,Europe,Zamora,,unknown,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+108,SP-17,,Spain,Europe,Lugo,,unknown,,,2,1,2016-02-05,2016-02-05,4,2,2,1,2,1,11
+109,UK-01,,UK,Europe,Newcastle,,blood,,,2,1,2016-02-05,2016-02-05,7,1,1,6,4,4,1
+110,UK-02,,UK,Europe,Chester,,vaginal swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+111,UK-03,,UK,Europe,Salford,,vaginal swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+112,UK-04,,UK,Europe,Hartlepool,,blood,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+113,UK-05,,UK,Europe,West Cumberland,,urine,,,2,1,2016-02-05,2016-02-05,7,3,9,8,1,5,4
+114,UK-06,,UK,Europe,Salford,,throat swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+115,UK-07,,UK,Europe,Queens Park,,blood,,,2,1,2016-02-05,2016-02-05,14,9,14,14,6,10,23
+116,UK-08,,UK,Europe,Salford,,urine,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+117,UK-09,,UK,Europe,Salford,,throat swab,,,2,1,2016-02-05,2016-02-05,9,9,10,4,3,2,24
+118,UK-10,,UK,Europe,Liverpool,,blood,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+119,UK-11,,UK,Europe,Burnley,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+120,UK-12,,UK,Europe,Salford,,blood,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+121,UK-13,,UK,Europe,Worksop,,sputum,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+122,UK-14,,UK,Europe,Salford,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+123,UK-15,,UK,Europe,Salford,,blood,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+124,UK-16,,UK,Europe,Stockport,,unknown,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+125,UK-17,,UK,Europe,Salford,,throat swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+126,UK-18,,UK,Europe,Salford,,medical device,,Femoral Catheter,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+127,UK-19,,UK,Europe,Newcastle,,other,,Abscess,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+128,UK-20,,UK,Europe,Ormskirk,,blood,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+129,UK-21,,UK,Europe,Salford,,other,,Abdominal Abscess,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+130,UK-22,,UK,Europe,Rochdale,,vaginal swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,8,26
+131,UK-23,,UK,Europe,Bolton,,vaginal swab,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+132,UK-24,,UK,Europe,Salford,,bronchoalveolar lavage,,,2,1,2016-02-05,2016-02-05,8,4,3,5,1,2,10
+133,UK-25,,UK,Europe,Antrim,,blood,,,2,1,2016-02-05,2016-02-05,8,5,15,9,3,1,27
+134,UK-26,,UK,Europe,Tameside,,blood,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+135,UK-27,,UK,Europe,Withington,,medical device,,IV Catheter Tip,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+136,UK-28,,UK,Europe,Salford,,medical device,,Femoral Catheter,2,1,2016-02-05,2016-02-05,13,9,17,13,1,11,28
+137,UK-29,,UK,Europe,Hartlepool,,unknown,,,2,1,2016-02-05,2016-02-05,12,4,16,5,1,8,25
+138,US-01,,USA,North America,,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+139,US-02,,USA,North America,,,blood,,,2,1,2016-02-05,2016-02-05,6,6,5,2,3,1,13
+140,US-03,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,3,18
+141,US-04,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+142,US-05,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+143,US-06,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+144,US-07,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+145,US-08,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+146,US-09,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+147,US-10,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+148,US-11,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+149,US-12,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+150,US-13,,USA,North America,"Iowa City, Iowa",,unknown,,,2,1,2016-02-05,2016-02-05,9,8,10,4,3,2,21
+151,US-14,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+152,US-15,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,1,1,2
+153,US-16,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+154,US-17,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+155,US-18,,USA,North America,"Iowa City, Iowa",,oral swab,,,2,1,2016-02-05,2016-02-05,1,2,2,1,2,1,8
+156,US-19,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,8,5,13,9,3,1,17
+157,US-20,,USA,North America,"Detroit, Michigan",,vaginal swab,,,2,1,2016-02-05,2016-02-05,2,5,7,5,1,2,6
+158,US-21,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,3,18
+159,US-22,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,3,18
+160,US-23,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,7,11,10,5,9,16
+161,US-24,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,3,18
+162,US-25,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,8,5,3,5,1,1,15
+163,US-26,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,6,3
+164,US-27,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,7,4,3,4,1,3,18
+165,US-28,,USA,North America,"Richmond, Virginia",,oral swab,,,2,1,2016-02-05,2016-02-05,10,5,12,11,3,7,20
+166,unnamed,,USA,North America,"Indianapolis, IN",,unknown,,,2,1,2016-02-05,2016-02-05,21,9,14,18,6,1,47
+167,unnamed,,USA,North America,"Louisville, KY",,unknown,,,2,1,2016-02-05,2016-02-05,17,7,11,10,5,9,38
+168,unnamed,,USA,North America,"Boston, MA",,unknown,,,2,1,2016-02-05,2016-02-05,10,5,19,19,1,17,43
+169,unnamed,,USA,North America,"Boston, MA",,unknown,,,2,1,2016-02-05,2016-02-05,18,5,13,9,3,1,39
+170,unnamed,,USA,North America,"Boston, MA",,unknown,,,2,1,2016-02-05,2016-02-05,7,9,26,17,9,2,45
+171,unnamed,,USA,North America,"Boston, MA",,unknown,,,2,1,2016-02-05,2016-02-05,7,1,1,6,4,4,1
+172,unnamed,,USA,North America,"Boston, MA",,unknown,,,2,1,2016-02-05,2016-02-05,7,1,1,6,4,4,1
+173,unnamed,,USA,North America,"Detroit, MI",,blood,,,2,1,2016-02-05,2016-02-05,3,4,24,3,3,4,41
+174,unnamed,,USA,North America,"Detroit, MI",,blood,,,2,1,2016-02-05,2016-02-05,5,7,25,7,3,6,42
+175,unnamed,,USA,North America,"Detroit, MI",,blood,,,2,1,2016-02-05,2016-02-05,8,4,23,5,1,2,40
+176,unnamed,,USA,North America,"St. Louis, MO",,unknown,,,2,1,2016-02-05,2016-02-05,21,9,14,18,6,1,47
+177,unnamed,,USA,North America,"Albany, NY",,unknown,,,2,1,2016-02-05,2016-02-05,19,2,30,5,10,11,53
+178,unnamed,,USA,North America,"New Hyde Park, NY",,unknown,,,2,1,2016-02-05,2016-02-05,7,9,26,17,9,2,45
+179,unnamed,,USA,North America,"New York, NY",,blood,,,2,1,2016-02-05,2016-02-05,20,13,22,9,3,2,46
+180,unnamed,,USA,North America,"Rochester, NY",,blood,,,2,1,2016-02-05,2016-02-05,8,4,23,5,1,2,40
+181,unnamed,,USA,North America,"Rochester, NY",,unknown,,,2,1,2016-02-05,2016-02-05,7,5,6,12,1,8,22
+182,unnamed,,USA,North America,"Cleveland, OH",,blood,,,2,1,2016-02-05,2016-02-05,3,12,22,2,3,4,56
+183,unnamed,,USA,North America,"Cleveland, OH",,blood,,,2,1,2016-02-05,2016-02-05,9,8,31,4,3,2,48
+184,unnamed,,USA,North America,"Hershey, PA",,blood,,,2,1,2016-02-05,2016-02-05,12,4,16,5,1,8,25
+185,unnamed,,USA,North America,"Charleston, SC",,blood,,,2,1,2016-02-05,2016-02-05,10,5,19,19,1,17,43
+186,unnamed,,USA,North America,"Galveston, TX",,unknown,,,2,1,2016-02-05,2016-02-05,23,11,28,20,3,9,51
+187,unnamed,,USA,North America,"Galveston, TX",,unknown,,,2,1,2016-02-05,2016-02-05,22,7,11,10,5,9,52
+188,unnamed,,USA,North America,"Salt Lake City, UT",,unknown,,,2,1,2016-02-05,2016-02-05,8,5,13,9,3,1,17
+189,unnamed,,USA,North America,"Salt Lake City, UT",,unknown,,,2,1,2016-02-05,2016-02-05,3,12,22,2,3,4,56
+190,unnamed,,USA,North America,"Salt Lake City, UT",,unknown,,,2,1,2016-02-05,2016-02-05,3,6,22,2,3,9,55
+191,unnamed,,USA,North America,"Salt Lake City, UT",,unknown,,,2,1,2016-02-05,2016-02-05,3,12,22,2,3,4,56
+192,unnamed,,USA,North America,"Charlottesville, VA",,blood,,,2,1,2016-02-05,2016-02-05,2,9,2,8,3,18,54
+193,unnamed,,USA,North America,"Milwaukee, WI",,unknown,,,2,1,2016-02-05,2016-02-05,6,6,29,2,3,4,49
+194,unnamed,,USA,North America,"Fullerton, CA",,unknown,,,2,1,2016-02-05,2016-02-05,9,9,19,2,3,4,44
+195,unnamed,,USA,North America,"Wilmington, DE",,sputum,,,2,1,2016-02-05,2016-02-05,5,7,21,7,3,6,37
+196,unnamed,,USA,North America,"Miami Beach, FL",,unknown,,,2,1,2016-02-05,2016-02-05,21,9,14,18,6,1,47
+197,unnamed,,USA,North America,"San Antonio, TX",,unknown,,,2,1,2016-02-05,2016-02-05,6,6,5,2,3,4,19
+198,unnamed,,USA,North America,"San Antonio, TX",,unknown,,,2,1,2016-02-05,2016-02-05,6,10,27,2,3,4,50
+199,SCSBB423141,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,25,4,3,5,1,2,57
+200,AM07/0284,,Unknown,,,,blood,,,2,1,2016-02-05,2016-02-05,24,2,33,5,13,2,58
+201,Taiwan3,,Taiwan,Asia,,,unknown,,,2,1,2016-02-05,2016-02-05,7,13,17,9,3,19,59
+202,Taiwan2,,Taiwan,Asia,,,unknown,,,2,1,2016-02-05,2016-02-05,7,18,11,10,5,9,60
+203,SCS198633,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,5,14,12,11,3,2,61
+204,SCS73077Q,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,1,15,2,1,8,1,62
+205,SCS53868,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,5,17,8,7,3,6,63
+206,SCS50089,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,6,16,34,23,7,5,64
+207,SCS68659,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,6,6,32,2,3,4,65
+208,Taiwan4,,Taiwan,Asia,,,unknown,,,2,1,2016-02-05,2016-02-05,3,4,4,22,3,4,66
+209,SCS243536,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,8,5,13,21,3,1,67
+210,SCS501151,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,11,6,68
+211,SCS66065K,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,1,2,2,1,12,1,69
+212,SCS70560,,UK,Europe,Scotland,,blood,,,2,1,2016-02-05,2016-02-05,5,7,8,7,3,20,70
+213,40SA,,Iran,Asia,Tehran,2009,urine,,in Amanloo et al ST101 is designated as ST71,3,4,2016-09-09,2018-11-14,7,13,17,4,3,19,101
+214,42SA,,Iran,Asia,Tehran,2009,urine,,in Amanloo et al ST102 is designated as ST72,3,4,2016-09-09,2018-11-14,5,7,17,7,3,6,102
+215,48SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST103 is designated as ST73,3,4,2016-09-09,2018-11-14,7,13,8,9,3,19,103
+216,9SA,,Iran,Asia,Tehran,2015,blood,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+217,18SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+218,19SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+219,27SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+220,28SA,,Iran,Asia,Tehran,2009,vaginal swab,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+221,34SA,,Iran,Asia,Tehran,2009,urine,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+222,35SA,,Iran,Asia,Tehran,2009,urine,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+223,46SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST104 is designated as ST74,3,4,2016-09-09,2018-11-14,51,7,50,50,50,9,104
+224,4SA,,Iran,Asia,Tehran,2009,other,,in Amanloo et al ST105 is designated as ST75; has been isolated from groin swab,3,4,2016-09-09,2018-11-14,50,16,9,4,13,50,105
+225,13SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST105 is designated as ST75,3,4,2016-09-09,2018-11-14,50,16,9,4,13,50,105
+226,23SA,,Iran,Asia,Tehran,2009,vaginal swab,,in Amanloo et al ST105 is designated as ST75,3,4,2016-09-09,2018-11-14,50,16,9,4,13,50,105
+227,45SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST105 is designated as ST75,3,4,2016-09-09,2018-11-14,50,16,9,4,13,50,105
+228,15SA,,Iran,Asia,Tehran,2009,blood,,in Amanloo et al ST106 is designated as ST76,3,4,2016-09-09,2018-11-14,19,50,1,51,51,51,106
+229,29SA,,Iran,Asia,Tehran,2009,vaginal swab,,in Amanloo et al ST107 is designated as ST77,3,4,2016-09-09,2018-11-14,52,7,50,4,50,9,107
+230,39SA,,Iran,Asia,Tehran,2009,urine,,in Amanloo et al ST108 is designated as ST78,3,4,2016-09-09,2018-11-14,50,7,9,4,13,50,108
+231,43SA,,Iran,Asia,Tehran,2009,vaginal swab,,in Amanloo et al ST109 is designated as ST79,3,4,2016-09-09,2018-11-14,52,7,50,50,50,9,109
+232,V010,,Tanzania,Africa,Sekou toure,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,16,9,47,13,13,9,112
+233,V012,,Tanzania,Africa,Sekou toure,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,10,22,3,5,16,8,113
+234,V016,,Tanzania,Africa,Sekou toure,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,16,9,47,13,13,9,112
+235,V019,,Tanzania,Africa,Sekou toure,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,10,22,3,5,16,8,113
+236,V050,,Tanzania,Africa,Nyamagana,2016,urine,,,4,4,2018-08-10,2019-09-11,3,4,4,3,3,4,7
+237,V052,,Tanzania,Africa,Buzuruga HC,2016,urine,,,4,4,2018-08-10,2019-09-11,16,9,47,13,13,9,112
+238,V053,,Tanzania,Africa,Nyamagana,2016,urine,,,4,4,2018-08-10,2019-09-11,8,5,3,5,1,1,15
+239,V055,,Tanzania,Africa,Makongoro,2016,urine,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+240,V063,,Tanzania,Africa,Makongoro,2016,urine,,,4,4,2018-08-10,2019-09-11,7,16,46,5,1,3,114
+241,V068,,Tanzania,Africa,Nyamagana,2016,urine,,,4,4,2018-08-10,2019-09-11,7,16,46,5,1,3,114
+242,V072,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+243,V074,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,16,9,47,13,13,9,112
+244,V076,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,3,4,4,3,3,4,7
+245,V079,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,6,6,5,2,3,21,115
+246,V080,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,5,7,8,7,3,6,3
+247,V081,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,6,6,5,2,3,21,115
+248,V082,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,3,4,4,3,3,4,7
+249,V083,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+250,V084,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+251,V086,,Tanzania,Africa,Bugando,2016,urine,,,4,4,2018-08-10,2019-09-11,16,9,47,13,13,9,112
+252,V091,,Tanzania,Africa,Buzuruga HC,2016,urine,,,4,4,2018-08-10,2019-09-11,7,16,46,5,1,3,114
+253,V093,,Tanzania,Africa,Buzuruga HC,2016,urine,,,4,4,2018-08-10,2019-09-11,14,1,3,28,8,9,116
+254,V095,,Tanzania,Africa,Buzuruga HC,2016,urine,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+255,V096,,Tanzania,Africa,Nyamagana,2016,urine,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+257,V104,,Tanzania,Africa,Bugando,2017,blood,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+258,V113,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,7,16,46,5,1,3,114
+259,V119,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,13,9,17,13,1,11,28
+260,V120,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+261,V121,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+262,V122,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+263,V124,,Tanzania,Africa,sengerema district hospital,2016,urine,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+264,V169,,Tanzania,Africa,Bugando,2016,oral swab,,,4,4,2018-08-10,2019-09-11,8,5,3,5,1,1,15
+265,V170,,Tanzania,Africa,Bugando,2016,oral swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+266,V171,,Tanzania,Africa,Bugando,2016,oral swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+267,V189,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+268,V198,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+269,V203,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+270,V215,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+271,V221,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+272,V225,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+273,V229,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,2,3,111
+274,V246,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,3,2,45,23,1,9,117
+275,V250,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+276,V276,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,5,7,8,7,3,5,110
+277,V321,,Tanzania,Africa,Bugando,2015,sputum,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+278,V398,,Tanzania,Africa,Makongoro,2016,vaginal swab,,,4,4,2018-08-10,2019-09-11,7,4,3,4,1,3,18
+279,IR-01,18AR,Iran,Asia,Sari,2011,other,,,13,4,2018-08-10,2019-09-11,50,16,9,4,13,9,119
+280,IR-02,15AR,Iran,Asia,Sari,2011,other,,,13,4,2018-08-10,2019-09-11,7,23,44,8,1,5,120
+281,IR-03,9AR,Iran,Asia,Tehran,2010,other,,,13,4,2018-08-10,2019-09-11,7,13,17,29,3,19,121
+282,IR-04,2AR,Iran,Asia,Tehran,2009,bronchoalveolar lavage,,,13,4,2018-08-10,2019-09-11,21,9,14,10,5,9,122
+283,6,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,5,7,8,4,3,6,118
+284,7,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,5,7,8,7,3,6,3
+285,16,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,50,16,9,4,13,50,105
+286,20,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,5,7,8,7,3,6,3
+287,21,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,3,4,4,3,3,4,7
+288,25,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,7,7,11,10,5,9,16
+289,28,,Brazil,South America,Ribeirão Preto - São Paulo,2014,blood,,,12,4,2018-08-15,2018-08-15,16,9,47,13,13,9,112
+290,46,,Brazil,South America,Ribeirão Preto - São Paulo,2015,blood,,,12,4,2018-08-15,2018-08-15,8,5,3,5,1,1,15
+291,50,,Brazil,South America,Ribeirão Preto - São Paulo,2015,blood,,,12,4,2018-08-15,2018-08-15,3,4,4,3,3,4,7
+292,72,,Brazil,South America,Ribeirão Preto - São Paulo,2015,blood,,,12,4,2018-08-15,2018-08-15,5,7,8,7,3,6,3
+293,WM_18.53,,Australia,Oceania,New South Wales,2017,blood,,,14,4,2018-08-16,2018-08-16,7,16,34,13,1,8,123
+294,WM_18.41,,Australia,Oceania,New South Wales,2014,blood,,,14,4,2018-08-16,2018-08-16,7,16,34,13,1,8,123
+295,WM_18.42,,Australia,Oceania,New South Wales,2014,blood,,,14,4,2018-08-16,2018-08-16,7,16,34,13,1,8,123
+296,WM_04.113,,Australia,Oceania,Victoria,2003,blood,,,14,4,2018-08-16,2018-08-16,7,16,34,13,1,8,123
+297,WM_18.66,,Australia,Oceania,Victoria,2017,blood,,,14,4,2018-08-16,2018-08-16,8,3,9,13,11,9,124
+298,WM_03.419,,Australia,Oceania,New South Wales,2003,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+299,WM_03.450,,Australia,Oceania,New South Wales,2003,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+300,WM_03.707,,Australia,Oceania,New South Wales,2003,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+301,WM_18.39,,Australia,Oceania,New South Wales,2014,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+302,WM_18.43,,Australia,Oceania,New South Wales,2014,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+303,WM_18.48,,Australia,Oceania,New South Wales,2015,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+304,WM_18.65,,Australia,Oceania,New South Wales,2017,blood,,,14,4,2018-08-16,2018-08-16,10,9,19,5,1,2,83
+305,WM_05.155,,Australia,Oceania,Western Australia,2004,blood,,,14,4,2018-08-16,2018-08-16,13,2,9,4,13,9,126
+306,WM_18.45,,Australia,Oceania,New South Wales,2014,blood,,,14,4,2018-08-16,2018-08-16,14,12,14,16,3,10,127
+307,IR-05,4AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+308,IR-06,6AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,7,5,6,12,1,8,22
+309,IR-07,7AR,Iran,Asia,Isfahan,2010,sputum,,,13,4,2018-08-16,2019-09-11,20,13,22,9,3,2,46
+310,IR-08,10AR,Iran,Asia,Tehran,2009,sputum,,,13,4,2018-08-16,2019-09-11,20,13,22,9,3,2,46
+311,IR-09,11AR,Iran,Asia,Tehran,2008,urine,,,13,4,2018-08-16,2019-09-11,7,23,44,8,1,5,120
+312,IR-10,14AR,Iran,Asia,Sari,2011,urine,,,13,4,2018-08-16,2019-09-11,51,7,50,50,50,9,104
+313,IR-11,17AR,Iran,Asia,Sari,2011,urine,,,13,4,2018-08-16,2019-09-11,51,7,50,50,50,9,104
+314,IR-12,19AR,Iran,Asia,Sari,2011,sputum,,,13,4,2018-08-16,2019-09-11,51,7,50,50,50,9,104
+315,IR-13,20AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,5,7,8,7,3,6,3
+316,IR-14,22AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+317,IR-15,23AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+318,IR-16,24AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,5,7,8,7,3,6,3
+319,IR-17,25AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+320,IR-18,26AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+321,IR-19,27AR,Iran,Asia,Tehran,2009,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+322,IR-20,28AR,Iran,Asia,Kashan,2008,vaginal swab,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+323,IR-21,29AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,5,7,8,7,3,6,3
+324,IR-22,30AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+325,IR-23,32AR,Iran,Asia,Tehran,2008,blood,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+326,IR-24,33AR,Iran,Asia,Tehran,2009,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,7,5,6,12,1,8,22
+327,IR-25,34AR,Iran,Asia,Tehran,2009,other,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+328,IR-26,36AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,3,4,4,3,3,4,7
+329,IR-27,37AR,Iran,Asia,Tehran,2008,urine,,,13,4,2018-08-16,2019-09-11,7,5,6,12,1,8,22
+330,IR-28,38AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,5,7,8,7,3,6,3
+331,IR-29,39AR,Iran,Asia,Tehran,2010,ascites,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+332,IR-30,40AR,Iran,Asia,Tehran,2008,vaginal swab,,,13,4,2018-08-16,2019-09-11,51,7,50,50,50,9,104
+333,IR-31,41AR,Iran,Asia,Tehran,2008,sputum,,,13,4,2018-08-16,2019-09-11,7,23,44,8,1,5,120
+334,IR-32,42AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,7,5,6,12,1,8,22
+335,IR-33,44AR,Iran,Asia,Tehran,2008,urine,,,13,4,2018-08-16,2019-09-11,5,7,8,7,3,6,3
+336,IR-34,48AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,20,13,22,9,3,2,46
+337,IR-35,49AR,Iran,Asia,Isfahan,2010,vaginal swab,,,13,4,2018-08-16,2019-09-11,20,13,22,9,3,2,46
+338,IR-36,50AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+339,IR-37,51AR,Iran,Asia,Tehran,2010,bronchoalveolar lavage,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+340,IR-38,52AR,Iran,Asia,Tehran,2008,blood,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+341,IR-39,53AR,Iran,Asia,Kashan,2008,vaginal swab,,,13,4,2018-08-16,2019-09-11,51,7,50,50,50,9,104
+342,IR-40,54AR,Iran,Asia,Kashan,2007,vaginal swab,,,13,4,2018-08-16,2019-09-11,7,13,17,9,3,19,59
+343,SS4,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+344,SS5,,South Korea,Asia,Seoul,2016,other,,tissue,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+345,SS8,,South Korea,Asia,Seoul,2016,blood,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+346,SS14,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+347,SS19,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+348,SS22,,South Korea,Asia,Seoul,2016,blood,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+349,SS24,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+350,SS26,,South Korea,Asia,Seoul,2016,unknown,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+351,CB2,,South Korea,Asia,Chungbuk,2016,blood,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+352,CB3,,South Korea,Asia,Chungbuk,2016,blood,,,26,4,2018-10-31,2018-10-31,3,22,4,3,3,4,138
+353,SS9,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+354,SS12,,South Korea,Asia,Seoul,2016,urine,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+355,CG10,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+356,CG15,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+357,CG18,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+358,CG32,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,7,22,3,50,1,8,139
+359,CG22,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,8,22,3,5,1,2,140
+360,CGL11,,South Korea,Asia,Wonju,2015,blood,,,26,4,2018-10-31,2018-10-31,8,22,3,5,1,2,140
+361,CGL9,,South Korea,Asia,Wonju,2015,blood,,,26,4,2018-10-31,2018-10-31,10,21,14,50,1,9,141
+362,CGL13,,South Korea,Asia,Wonju,2015,blood,,,26,4,2018-10-31,2018-10-31,7,17,11,10,5,9,142
+363,CG19,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,5,17,8,7,3,50,143
+364,CGL6,,South Korea,Asia,Seoul,2015,blood,,,26,4,2018-10-31,2018-10-31,5,17,8,7,14,6,144
+365,595,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+366,611,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+367,616,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+368,617,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+369,645,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+370,685,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+371,687,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+372,699,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,10,5,2,3,4,95
+373,712,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+374,759,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,2,5,7,5,1,2,6
+375,763,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,10,5,2,3,4,95
+376,766,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+377,782,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+378,785,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+379,788,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+380,789,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+381,805,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+382,846,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+383,901,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+384,903,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+385,906,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+386,908,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+387,922,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,10,9,19,5,1,2,83
+388,932,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+389,933,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+390,959,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+391,965,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+392,995,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-08-16,8,5,3,5,1,1,15
+393,1001,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,21,9,14,18,6,1,47
+394,1006,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+395,1008,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+396,1031,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+397,1035,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+398,1051,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+399,1066,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+400,1074,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+401,1092,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+402,1094,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+403,1120,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+404,1140,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+405,1141,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+406,1159,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+407,1160,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+408,1174,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+409,1222,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+410,1228,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+411,1238,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+412,1246,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+413,1249,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+414,1258,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+415,1259,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,10,5,12,11,3,7,20
+416,1262,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+417,1372,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+418,1659,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+419,1982,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+420,2015,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+421,2020,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,9,16,43,27,16,5,96
+422,2086,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+423,2099,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+424,2101,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+425,2102,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+426,2104,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+427,2132,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+428,2146,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+429,2162,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+430,2163,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+431,2171,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+432,2183,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+433,2192,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+434,2193,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+435,2210,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+436,2236,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+437,2260,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+438,2266,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+439,2277,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+440,2278,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+441,2308,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+442,2325,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+443,2328,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+444,2330,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+445,2331,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+446,2336,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+447,2337,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+448,2350,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+449,2351,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+450,2366,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+451,2370,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+452,2371,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+453,2372,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+454,2385,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+455,2386,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+456,2391,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+457,2407,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+458,2408,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+459,2409,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+460,2415,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+461,2425,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+462,2443,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+463,2448,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+464,2459,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+465,2488,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+466,2489,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+467,2494,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+468,2501,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,4,3,4,1,8,26
+469,2506,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+470,2511,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+471,2523,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+472,2529,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+473,2538,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+474,2557,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,10,9,19,5,1,2,83
+475,2595,,USA,North America,Atlanta,2009,unknown,,All are non-sterile body sites,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+476,CAS00-0039,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+477,CAS00-0047,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,8,26
+478,CAS00-0062,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+479,CAS00-0068,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+480,CAS00-0078,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+481,CAS00-0088,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,10,5,12,11,3,2,36
+482,CAS00-0100,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+483,CAS00-0146,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+484,CAS00-0157,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+485,CAS00-0173,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+486,CAS00-0199,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+487,CAS00-0214,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+488,CAS00-0230,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+489,CAS00-0262,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+490,CAS00-0270,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+491,CAS00-0286,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,3,9,8,1,5,4
+492,CAS00-0305,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+493,CAS00-0319,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,6,4,3,3,1,3,79
+494,CAS00-0331,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+495,CAS00-0404,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+496,CAS00-0407,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,9,8,10,4,3,2,21
+497,CAS00-0418,,USA,North America,Baltimore,2000,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+498,CAS08-0002,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+499,CAS08-0005,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+500,CAS08-0007,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,4,3,5,1,2,80
+501,CAS08-0010,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+502,CAS08-0011,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,10,3,4,81
+503,CAS08-0015,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,21,9,14,10,6,1,82
+504,CAS08-0016,SRR3925733,USA,North America,Atlanta,2008,blood,PRJNA329124,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+505,CAS08-0026,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+506,CAS08-0027,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+507,CAS08-0030,SRR3925744,USA,North America,Atlanta,2008,blood,PRJNA329124,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+508,CAS08-0037,SRR3925755,USA,North America,Atlanta,2008,blood,PRJNA329124,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+509,CAS08-0039,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+510,CAS08-0046,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+511,CAS08-0068,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+512,CAS08-0069,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+513,CAS08-0082,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+514,CAS08-0083,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+515,CAS08-0084,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+516,CAS08-0088,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+517,CAS08-0089,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+518,CAS08-0090,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+519,CAS08-0092,SRR3925766,USA,North America,Atlanta,2008,blood,PRJNA329124,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+520,CAS08-0095,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+521,CAS08-0108,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+522,CAS08-0109,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+523,CAS08-0110,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+524,CAS08-0112,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+525,CAS08-0121,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+526,CAS08-0123,SRR8697376,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,3,4,4,3,3,4,7
+527,CAS08-0124,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+528,CAS08-0128,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+529,CAS08-0129,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+530,CAS08-0130,SRR8697509,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+531,CAS08-0136,SRR8697452,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+532,CAS08-0142,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+533,CAS08-0144,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+534,CAS08-0152,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+535,CAS08-0153,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+536,CAS08-0154,SRR8697454,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+537,CAS08-0162,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+538,CAS08-0166,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+539,CAS08-0173,SRR8697407,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,3,6,22,2,3,9,55
+540,CAS08-0178,SRR8697312,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+541,CAS08-0190,SRR8697408,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,8,4,3,5,1,2,10
+542,CAS08-0199,SRR3925770,USA,North America,Baltimore,2008,unknown,PRJNA329124,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+543,CAS08-0205,SRR3925771,USA,North America,Baltimore,2008,unknown,PRJNA329124,,24,4,2019-07-02,2019-09-18,8,4,3,5,1,2,10
+544,CAS08-0207,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+545,CAS08-0209,SRR3925772; SRR8697364,USA,North America,Baltimore,2008,unknown,PRJNA329124; PRJNA524686,,24,1,2019-07-02,2019-12-09,8,4,3,5,1,2,10
+546,CAS08-0213,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+547,CAS08-0220,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+548,CAS08-0222,SRR8697383,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+549,CAS08-0241,SRR8697285,USA,North America,Baltimore,2008,unknown,PRJNA524686,,24,4,2019-07-02,2019-09-18,5,7,8,7,3,6,3
+550,CAS08-0246,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+551,CAS08-0248,SRR8697402,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,8,5,3,5,1,1,15
+552,CAS08-0253,SRR3925773,USA,North America,Baltimore,2008,unknown,PRJNA329124,,24,4,2019-07-02,2019-09-18,10,9,19,5,1,2,83
+553,CAS08-0258,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+554,CAS08-0265,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,20,13,22,9,3,2,46
+555,CAS08-0280,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+556,CAS08-0281,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+557,CAS08-0283,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+558,CAS08-0286,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+559,CAS08-0288,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+560,CAS08-0289,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+561,CAS08-0291,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+562,CAS08-0293,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+563,CAS08-0295,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+564,CAS08-0297,SRR3925735,USA,North America,Atlanta,2008,blood,PRJNA329124,,24,4,2019-07-02,2019-09-18,8,5,3,5,1,1,15
+565,CAS08-0305,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+566,CAS08-0309,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+567,CAS08-0311,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+568,CAS08-0313,SRR8697403,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,2,5,7,5,1,2,6
+569,CAS08-0315,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+570,CAS08-0317,SRR8697474,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,5,7,8,7,3,6,3
+571,CAS08-0323,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+572,CAS08-0326,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+573,CAS08-0332,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,18,11,10,5,9,60
+574,CAS08-0335,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,21,9,14,18,6,1,47
+575,CAS08-0336,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+576,CAS08-0338,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+577,CAS08-0342,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+578,CAS08-0343,SRR8697334,USA,North America,Baltimore,2008,unknown,PRJNA524686,,24,4,2019-07-02,2019-09-18,1,2,2,1,1,1,2
+579,CAS08-0350,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+580,CAS08-0354,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+581,CAS08-0355,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,10,5,19,19,1,17,43
+582,CAS08-0356,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+583,CAS08-0358,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+584,CAS08-0369,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+585,CAS08-0381,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+586,CAS08-0388,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+587,CAS08-0407,SRR8697439,USA,North America,Baltimore,2008,unknown,PRJNA524686,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+588,CAS08-0411,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+589,CAS08-0418,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+590,CAS08-0423,SRR8697347,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,2,5,7,5,1,2,6
+591,CAS08-0424,SRR8697484,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,5,7,8,7,3,6,3
+592,CAS08-0425,SRR3925736,USA,North America,Baltimore,2008,unknown,PRJNA329124,,24,4,2019-07-02,2019-09-18,8,4,3,5,1,2,10
+593,CAS08-0436,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+594,CAS08-0447,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+595,CAS08-0450,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+596,CAS08-0452,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+597,CAS08-0456,SRR8697379,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+598,CAS08-0458,SRR8697393,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,4,3,4,1,8,26
+599,CAS08-0459,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+600,CAS08-0462,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+601,CAS08-0469,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+602,CAS08-0471,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+603,CAS08-0479,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+604,CAS08-0482,SRR8697333,USA,North America,Atlanta,2008,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,7,7,11,10,5,9,16
+605,CAS08-0485,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+606,CAS08-0494,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+607,CAS08-0497,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+608,CAS08-0503,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+609,CAS08-0515,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,2,5,7,5,1,2,6
+610,CAS08-0525,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+611,CAS08-0528,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+612,CAS08-0569,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+613,CAS08-0571,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+614,CAS08-0572,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+615,CAS08-0575,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+616,CAS08-0578,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+617,CAS08-0579,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+618,CAS08-0594,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+619,CAS08-0600,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+620,CAS08-0609,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+621,CAS08-0645,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+622,CAS08-0646,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+623,CAS08-0647,SRR8697428,USA,North America,Baltimore,2008,unknown,PRJNA524686,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+624,CAS08-0649,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+625,CAS08-0652,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+626,CAS08-0655,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+627,CAS08-0660,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+628,CAS08-0661,,USA,North America,Baltimore,2008,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+629,CAS08-0678,,USA,North America,Atlanta,2008,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+630,CAS09-0746,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+631,CAS09-0751,SRR8697308,USA,North America,Atlanta,2009,blood,PRJNA524686,,24,4,2019-07-02,2019-09-18,6,6,5,2,3,4,19
+632,CAS09-0755,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+633,CAS09-0780,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+634,CAS09-0797,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+635,CAS09-0803,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+636,CAS09-0825,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,2,5,7,5,1,2,6
+637,CAS09-0829,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+638,CAS09-0830,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,21,9,14,18,6,1,47
+639,CAS09-0832,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+640,CAS09-0854,,USA,North America,Atlanta,2009,blood,,,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+641,CAS98-0023,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+642,CAS98-0033,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+643,CAS98-0074,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+644,CAS98-0111,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+645,CAS98-0127,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+646,CAS98-0207,,USA,North America,Baltimore,1998,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+647,CAS99-0026,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,7,9,26,17,9,2,45
+648,CAS99-0041,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,2,5,7,5,1,2,6
+649,CAS99-0087,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+650,CAS99-0093,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+651,CAS99-0115,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,1,2,37,1,2,1,77
+652,CAS99-0121,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+653,CAS99-0183,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+654,CAS99-0190,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+655,CAS99-0233,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+656,CAS99-0236,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+657,CAS99-0240,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+658,CAS99-0248,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+659,CAS99-0263,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+660,CAS99-0322,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+661,CAS99-0336,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+662,CAS99-0351,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+663,CAS99-0414,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+664,CAS99-0437,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,26,4,38,24,14,22,78
+665,CAS99-0465,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+666,CAS99-0483,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+667,CAS99-0493,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,7,4,3,4,1,3,18
+668,CAS99-0539,,USA,North America,Baltimore,1999,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+669,MAS92-0002,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+670,MAS92-0003,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+671,MAS92-0035,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+672,MAS92-0115,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+673,MAS92-0125,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+674,MAS92-0133,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+675,MAS92-0185,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+676,MAS92-0196,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+677,MAS92-0262,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+678,MAS92-0269,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+679,MAS92-0274,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+680,MAS92-0305,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,7,7,11,10,5,9,16
+681,MAS92-0360,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+682,MAS92-0422,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+683,MAS92-0425,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+684,MAS92-0440,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,9,9,10,4,3,2,24
+685,MAS92-0547,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+686,MAS92-0586,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+687,MAS92-0589,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,2,5,7,5,1,2,6
+688,MAS92-0590,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+689,MAS92-0609,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+690,MAS92-0613,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+691,MAS92-0633,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+692,MAS92-0646,,USA,North America,Atlanta,1992,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,2,1,8
+693,MAS92-0747,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+694,MAS92-0751,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+695,MAS92-0823,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+696,MAS92-0838,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+697,MAS92-0849,,USA,North America,San Francisco,1992,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+698,MAS93-0023,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,21,9,14,18,6,1,47
+699,MAS93-0038,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+700,MAS93-0094,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+701,MAS93-0101,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+702,MAS93-0133,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+703,MAS93-0147,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+704,MAS93-0161,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+705,MAS93-0177,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,5,3,5,1,1,15
+706,MAS93-0202,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+707,MAS93-0347,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+708,MAS93-0359,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+709,MAS93-0381,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+710,MAS93-0412,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+711,MAS93-0423,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+712,MAS93-0443,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+713,MAS93-0500,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,5,13,9,3,1,17
+714,MAS93-0528,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,9,9,10,4,3,2,24
+715,MAS93-0586,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+716,MAS93-0631,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,1,2,2,1,1,1,2
+717,MAS93-0633,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,8,4,3,5,1,2,10
+718,MAS93-0634,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+719,MAS93-0735,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,10,14,12,11,3,2,76
+720,MAS93-0752,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+721,MAS93-0816,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+722,MAS93-0886,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+723,MAS93-0889,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+724,MAS93-0915,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+725,MAS93-0986,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,10,5,19,19,1,17,43
+726,MAS93-1007,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+727,MAS93-1059,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+728,MAS93-1061,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,7,5,6,12,1,8,22
+729,MAS93-1062,,USA,North America,Atlanta,1993,unknown,,,24,4,2019-07-02,2019-07-02,5,7,8,7,3,6,3
+730,MAS93-1068,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+731,MAS93-1080,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,3,4,4,3,3,4,7
+732,MAS93-1083,,USA,North America,San Francisco,1993,unknown,,,24,4,2019-07-02,2019-07-02,6,6,5,2,3,4,19
+733,6SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,5,7,8,7,3,6,3
+734,10SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,5,7,8,7,3,6,3
+735,33SA,,Iran,Asia,,2009,vaginal swab,,,3,4,2018-11-14,2018-11-14,5,7,8,7,3,6,3
+736,41SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,5,7,8,7,3,6,3
+737,8SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+738,21SA,,Iran,Asia,,2015,faeces,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+739,30SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+740,32SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+741,36SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+742,38SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+743,44SA,,Iran,Asia,,2009,bronchoalveolar lavage,,,3,4,2018-11-14,2018-11-14,3,4,4,3,3,4,7
+744,49SA,,Iran,Asia,,2015,blood,,,3,4,2018-11-14,2018-11-14,8,5,3,5,1,1,15
+745,31SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,7,5,6,12,1,8,22
+746,1SA,,Iran,Asia,,2010,throat swab,,,3,4,2018-11-14,2018-11-14,20,13,22,9,3,2,46
+747,3SA,,Iran,Asia,,2010,other,,collected from toenail,3,4,2018-11-14,2018-11-14,20,13,22,9,3,2,46
+748,5SA,,Iran,Asia,,2011,vaginal swab,,,3,4,2018-11-14,2018-11-14,20,13,22,9,3,2,46
+749,24SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,12,22,2,3,4,56
+750,25SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,12,22,2,3,4,56
+751,26SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,12,22,2,3,4,56
+752,37SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,3,12,22,2,3,4,56
+753,50SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,3,12,22,2,3,4,56
+754,2SA,,Iran,Asia,,2010,vaginal swab,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+755,7SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+756,11SA,,Iran,Asia,,2009,urine,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+757,12SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+758,14SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+759,16SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+760,17SA,,Iran,Asia,,2009,blood,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+761,20SA,,Iran,Asia,,2015,urine,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+762,22SA,,Iran,Asia,,2009,sputum,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+763,47SA,,Iran,Asia,,2009,throat swab,,,3,4,2018-11-14,2018-11-14,7,13,17,9,3,19,59
+764,MB_1,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+765,MB_2,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: A313V,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+766,MB_3,,Spain,Europe,Madrid,2013,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+767,MB_4,,Spain,Europe,Madrid,2013,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+768,MB_5,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+769,MB_6,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,2,5,7,5,1,2,6
+770,MB_7,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+771,MB_8,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+772,MB_9,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+773,MB_10,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,5,3,5,1,2,145
+774,MB_11,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,5,3,5,1,2,145
+775,MB_12,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+776,MB_13,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: N890I,30,4,2018-11-16,2018-11-16,8,5,3,5,1,2,145
+777,MB_14,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+778,MB_15,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+779,MB_16,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: P208S/N890I,30,4,2018-11-16,2018-11-16,8,4,3,5,1,2,10
+780,MB_17,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: E459K,30,4,2018-11-16,2018-11-16,51,24,49,7,51,6,146
+781,MB_18,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: E459K,30,4,2018-11-16,2018-11-16,51,24,49,30,51,6,147
+782,MB_19,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: E459K,30,4,2018-11-16,2018-11-16,51,24,49,30,51,6,147
+783,MB_20,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: E456D,30,4,2018-11-16,2018-11-16,7,5,6,12,1,8,22
+784,MB_21,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,8,5,3,5,1,1,15
+785,MB_22,,Spain,Europe,Madrid,2013,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,8,5,3,5,1,1,15
+786,MB_23,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,7,4,3,4,1,8,26
+787,MB_24,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+788,MB_25,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+789,MB_26,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+790,MB_27,,Spain,Europe,Madrid,2013,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+791,MB_28,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+792,MB_29,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+793,MB_30,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+794,MB_31,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,14,6,9,15,8,14,34
+795,MB_32,,Spain,Europe,Madrid,2010,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+796,MB_33,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: L810H,30,4,2018-11-16,2018-11-16,3,9,26,4,17,4,148
+797,MB_34,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,7,25,51,7,51,4,149
+798,MB_35,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,7,25,51,7,51,4,149
+799,MB_36,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,7,25,51,7,51,4,149
+800,MB_37,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,7,25,51,30,51,4,150
+801,MB_38,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: V239L/A942T,30,4,2018-11-16,2018-11-16,1,2,2,1,2,1,8
+802,MB_39,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: V239L/A942T,30,4,2018-11-16,2018-11-16,1,2,2,1,2,1,8
+812,MB_49,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+813,MB_50,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+814,MB_51,,Spain,Europe,Madrid,2014,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+815,MB_52,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+816,MB_53,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+817,MB_54,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+818,MB_55,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+819,MB_56,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+820,MB_57,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+821,MB_58,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+822,MB_59,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+823,MB_60,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+824,MB_61,,Spain,Europe,Madrid,2008,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+825,MB_62,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+826,MB_63,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+827,MB_64,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+828,MB_65,,Spain,Europe,Madrid,2010,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+829,MB_66,,Spain,Europe,Madrid,2010,blood,,Msh2 isoform: E7K,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+830,MB_67,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+831,MB_68,,Spain,Europe,Madrid,2011,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+832,MB_69,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+833,MB_70,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+834,MB_71,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: L588V,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+835,MB_72,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+836,MB_73,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+837,MB_74,,Spain,Europe,Madrid,2016,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+838,MB_75,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+839,MB_76,,Spain,Europe,Madrid,2010,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+840,MB_77,,Spain,Europe,Madrid,2012,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,5,7,8,7,3,6,3
+841,MB_78,,Spain,Europe,Madrid,2007,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,3,4,4,3,3,4,7
+842,MB_79,,Spain,Europe,Madrid,2010,blood,,Msh2 isoform: V239L,30,4,2018-11-16,2018-11-16,3,4,4,3,3,4,7
+843,MB_80,,Spain,Europe,Madrid,2009,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,6,6,5,2,3,4,19
+844,MB_81,,Spain,Europe,Madrid,2015,blood,,Msh2 isoform: WT,30,4,2018-11-16,2018-11-16,6,6,5,2,3,4,19
+845,Kw280/06,,Kuwait,Asia,,2006,vaginal swab,,,4,4,2018-11-27,2018-11-27,3,4,4,5,3,4,151
+846,Kw861/13,,Kuwait,Asia,,2013,other,,,4,4,2018-11-27,2018-11-27,5,7,8,5,3,6,152
+847,Kw96/15,,Kuwait,Asia,,2015,urine,,,4,4,2018-11-27,2018-11-27,20,13,22,9,3,2,46
+848,Kw1856/15,,Kuwait,Asia,,2015,urine,,,4,4,2018-11-27,2018-11-27,20,13,22,9,3,2,46
+849,Kw2516/15,,Kuwait,Asia,,2015,urine,,,4,4,2018-11-27,2018-11-27,3,6,22,5,3,9,153
+850,Kw2813/15,,Kuwait,Asia,,2015,urine,,,4,4,2018-11-27,2018-11-27,7,13,17,5,3,19,154
+851,Kw3148/07,,Kuwait,Asia,,2007,sputum,,,33,4,2019-01-05,2019-01-05,28,9,5,8,14,9,155
+852,Kw600/09,,Kuwait,Asia,,2009,other,,skin swab,33,4,2019-01-05,2019-01-05,7,26,6,12,18,8,156
+853,Kw3368/09,,Kuwait,Asia,,2009,urine,,,33,4,2019-01-05,2019-01-05,3,4,1,3,3,23,157
+854,Kw796/08,,Kuwait,Asia,,2008,other,,bedsore swab,33,4,2019-01-05,2019-01-05,8,4,3,8,1,2,158
+855,Kw123/08,,Kuwait,Asia,,2008,sputum,,,33,4,2019-01-05,2019-01-05,51,7,50,9,50,9,159
+856,Kw3025/09,,Kuwait,Asia,,2009,urine,,,33,4,2019-01-05,2019-01-05,3,6,5,9,1,2,160
+857,Kw1073/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,7,16,17,3,13,2,161
+858,Kw1450/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,51,24,49,30,51,6,147
+859,Kw1659/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,3,6,5,9,3,4,162
+860,Kw2450/10,,Kuwait,Asia,,2010,other,,wound swab,33,4,2019-01-05,2019-01-05,5,1,8,7,3,6,163
+861,Kw1018/12,,Kuwait,Asia,,2012,blood,,,33,4,2019-01-05,2019-01-05,3,6,22,5,3,19,164
+862,Kw844/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+863,Kw3184/11,,Kuwait,Asia,,2011,blood,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+864,Kw520/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+865,Kw295/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+866,Kw241/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+867,Kw2371/10,,Kuwait,Asia,,2010,other,,Abdominal drain,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+868,Kw2566/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,5,7,8,7,3,6,3
+869,Kw213/09,,Kuwait,Asia,,2009,other,,Wound drainage,33,4,2019-01-05,2019-01-05,3,4,4,3,3,4,7
+870,Kw710/09,,Kuwait,Asia,,2009,sputum,,,33,4,2019-01-05,2019-01-05,3,4,4,3,3,4,7
+871,Kw1081/11,,Kuwait,Asia,,2011,urine,,,33,4,2019-01-05,2019-01-05,3,4,4,3,3,4,7
+872,Kw2717/08,,Kuwait,Asia,,2008,blood,,,33,4,2019-01-05,2019-01-05,3,4,4,3,3,4,7
+873,Kw770/11,,Kuwait,Asia,,2011,urine,,,33,4,2019-01-05,2019-01-05,1,2,2,1,2,1,8
+874,Kw3151/10,,Kuwait,Asia,,2010,other,,Gastric tube,33,4,2019-01-05,2019-01-05,8,4,3,5,1,2,10
+875,Kw2466/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,8,4,3,5,1,2,10
+876,Kw2978/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,8,4,3,5,1,2,10
+877,Kw1571/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,8,5,3,5,1,1,15
+878,Kw2724/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,8,5,3,5,1,1,15
+879,Kw287/11,,Kuwait,Asia,,2011,oral swab,,,33,4,2019-01-05,2019-01-05,8,5,3,5,1,1,15
+880,Kw23/08,,Kuwait,Asia,,2008,other,,Pleural fluid,33,4,2019-01-05,2019-01-05,8,5,3,5,1,1,15
+881,Kw2331/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,8,5,3,5,1,1,15
+882,Kw52/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,7,5,6,12,1,8,22
+883,Kw1617/10,,Kuwait,Asia,,2010,blood,,,33,4,2019-01-05,2019-01-05,7,5,6,12,1,8,22
+884,Kw954/08,,Kuwait,Asia,,2008,oral swab,,,33,4,2019-01-05,2019-01-05,7,4,3,4,1,8,26
+885,Kw1004/08,,Kuwait,Asia,,2008,sputum,,,33,4,2019-01-05,2019-01-05,7,4,3,4,1,8,26
+886,Kw2411/07,,Kuwait,Asia,,2007,urine,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+887,Kw929/10,,Kuwait,Asia,,2010,blood,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+888,Kw947/08,,Kuwait,Asia,,2008,urine,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+889,Kw948/08,,Kuwait,Asia,,2008,urine,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+890,Kw889/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+891,Kw1020/10,,Kuwait,Asia,,2010,other,,Wound swab,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+892,Kw3042/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+893,Kw664/09,,Kuwait,Asia,,2009,sputum,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+894,Kw1332/10,,Kuwait,Asia,,2010,other,,Axillary swab,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+895,Kw690/11,,Kuwait,Asia,,2011,other,,Rectal swab,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+896,Kw1142/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+897,Kw2472/10,,Kuwait,Asia,,2010,blood,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+898,Kw3111/08,,Kuwait,Asia,,2008,sputum,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+899,Kw457/09,,Kuwait,Asia,,2009,urine,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+900,Kw2543/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+901,Kw651/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+902,Kw841/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+903,Kw1912/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+904,Kw2527/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+905,Kw210/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+906,Kw3142/07,,Kuwait,Asia,,2007,sputum,,,33,4,2019-01-05,2019-01-05,20,13,22,9,3,2,46
+907,Kw630/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,21,9,14,18,6,1,47
+908,Kw1018/10,,Kuwait,Asia,,2010,blood,,,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+909,Kw644/10,,Kuwait,Asia,,2010,blood,,,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+910,Kw2920/10,,Kuwait,Asia,,2010,bronchoalveolar lavage,,,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+911,Kw3163/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+912,Kw1658/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+913,Kw805/10,,Kuwait,Asia,,2010,other,,Rectal swab,33,4,2019-01-05,2019-01-05,3,6,22,2,3,9,55
+914,Kw583/09,,Kuwait,Asia,,2009,blood,,,33,4,2019-01-05,2019-01-05,51,7,50,50,50,9,104
+915,Kw1051/10,,Kuwait,Asia,,2010,sputum,,,33,4,2019-01-05,2019-01-05,21,9,14,10,5,9,122
+916,Kw2863/10,,Kuwait,Asia,,2010,urine,,,33,4,2019-01-05,2019-01-05,21,9,14,10,5,9,122
+917,Kw1134/10,,Kuwait,Asia,,2010,other,,Tracheal aspirate,33,4,2019-01-05,2019-01-05,7,16,17,13,13,2,165
+918,Kw129/12,,Kuwait,Asia,,2012,urine,,,33,4,2019-01-05,2019-01-05,8,5,3,5,1,2,145
+919,Kw2487/06,,Kuwait,Asia,,2006,other,,Vaginal swab,33,4,2019-01-05,2019-01-05,3,4,4,5,3,4,151
+920,Kw2514/15,,Kuwait,Asia,,2015,urine,,,33,4,2019-01-05,2019-01-05,3,6,22,5,3,9,153
+921,Kw2737/15,,Kuwait,Asia,,2015,urine,,,33,4,2019-01-05,2019-01-05,7,13,17,5,3,19,154
+922,CG5,,France,Europe,,2014,other,,Sasso_Pat5,4,4,2019-01-24,2019-01-24,3,6,22,2,3,9,55
+923,CG4,,France,Europe,,2014,blood,,Sasso_Pat5,4,4,2019-01-24,2019-01-24,3,6,22,2,3,9,55
+924,CG6,,France,Europe,,2014,urine,,Sasso_Pat6,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+925,CG7,,France,Europe,,2014,blood,,Sasso_Pat6,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+926,CG8,,France,Europe,,2014,blood,,Sasso_Pat6,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+927,CG9,,France,Europe,,2014,other,,Sasso_Pat6,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+928,CG16,,France,Europe,,2014,vaginal swab,,Sasso_Pat7; mother of P8,4,4,2019-01-24,2019-01-24,29,5,6,12,1,8,166
+929,CG17,,France,Europe,,2014,blood,,Sasso_Pat8; child of P7,4,4,2019-01-24,2019-01-24,29,5,6,12,1,8,166
+930,CG743,,France,Europe,,2014,urine,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+931,CG744,,France,Europe,,2014,anal swab,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+932,CG745,,France,Europe,,2014,throat swab,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+933,CG746,,France,Europe,,2014,other,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+934,CG849,,France,Europe,,2014,other,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+935,CG864,,France,Europe,,2014,other,,Sasso_Pat9,4,4,2019-01-24,2019-01-24,3,4,4,3,3,4,7
+936,CG689,,France,Europe,,2014,other,,Sasso_Pat10,4,4,2019-01-24,2019-01-24,7,13,17,9,3,19,59
+937,CG692,,France,Europe,,2014,bronchoalveolar lavage,,Sasso_Pat10,4,4,2019-01-24,2019-01-24,7,13,17,9,3,19,59
+938,CG715,,France,Europe,,2014,oral swab,,Sasso_Pat10,4,4,2019-01-24,2019-01-24,7,13,17,9,3,19,59
+939,CG719,,France,Europe,,2014,other,,Sasso_Pat10,4,4,2019-01-24,2019-01-24,7,13,17,9,3,19,59
+940,CG706,,France,Europe,,2014,blood,,Sasso_Pat10,4,4,2019-01-24,2019-01-24,7,13,17,9,3,19,59
+941,CG756,,France,Europe,,2012,oral swab,,Sasso_Pat11,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+942,CG757,,France,Europe,,2012,nasal swab,,Sasso_Pat11,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+943,CG758,,France,Europe,,2012,anal swab,,Sasso_Pat11,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+944,CG760,,France,Europe,,2012,other,,Sasso_Pat11,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+945,CG774,,France,Europe,,2012,other,,Sasso_Pat11,4,4,2019-01-24,2019-01-24,5,7,8,7,3,6,3
+946,NRZ-2016-057,SRR7609360,Germany,Europe,,2016,blood,PRJNA483064,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+947,NRZ-2016-058,SRR7609359,Germany,Europe,,2016,blood,PRJNA483064,consecutive to NRZ-2016-057,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+948,CANGA1A,LLWO00000000,Norway,Europe,,,blood,PRJNA297263,,4,4,2019-07-14,2019-09-11,2,5,7,5,1,2,6
+949,CANGA1B,LMAA00000000,Norway,Europe,,,blood,PRJNA297263,consecutive to 1A (12d),4,4,2019-07-14,2019-09-11,2,5,7,5,1,2,6
+950,CANGA2A,LLZZ00000000,Norway,Europe,,,blood,PRJNA297263,,4,4,2019-07-14,2019-09-11,2,5,7,5,1,2,6
+951,CANGA2B,LLZY00000000,Norway,Europe,,,blood,PRJNA297263,consecutive to 2A (12d),4,4,2019-07-14,2019-09-11,2,5,7,5,1,2,6
+952,CANGA3A,LMAY00000000,Norway,Europe,,,blood,PRJNA297263,,4,4,2019-07-14,2019-09-11,3,9,26,4,4,4,137
+953,CANGA3B,LMAB00000000,Norway,Europe,,,blood,PRJNA297263,consecutive to 3A (12d),4,4,2019-07-14,2019-09-11,3,9,26,4,4,4,137
+954,DSY562,SRR5459193,Switzerland,Europe,,1995,oral swab,PRJNA374542,MSH2: V239L,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+955,DSY565,SRR5459192,Switzerland,Europe,,1995,oral swab,PRJNA374542,consecutive to DSY562 (50d),4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+956,B1012M,SRR5239777,Belgium,Europe,,,oral swab,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,32,2,3,4,65
+957,B1012S,SRR5239760,Belgium,Europe,,,other,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,32,2,3,4,65
+958,BG2,SRR5239778,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+959,BO101S,SRR5239775,Belgium,Europe,,,other,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+960,CST109,SRR5239771,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+961,CST110,SRR5239780,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+962,CST34,SRR5239767,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+963,CST35,SRR5239768,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,3,4,4,3,3,4,7
+964,CST78,SRR5239769,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+965,CST80,SRR5239754,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+966,E1114,SRR5239773,Belgium,Europe,,,oral swab,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+967,EB0911Sto,SRR5239755,Belgium,Europe,,,other,PRJNA361477,,4,4,2019-07-14,2019-09-11,3,4,4,3,3,4,7
+968,EB101M,SRR5239772,Belgium,Europe,,,oral swab,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+969,EF0616Blo1,SRR5239758,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,5,48,12,1,8,135
+970,EF1237Blo1,SRR5239770,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,5,6,12,1,8,22
+971,EF1620Sto,SRR5239774,France,Europe,,,other,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,5,48,12,1,8,135
+972,EF1815Blo1,SRR5239753,Italy,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,5,6,12,1,8,22
+973,EG01004Sto,SRR5239761,Germany,Europe,,,other,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+974,EF03013,SRR5239779,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+975,F1019,SRR5239782,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,1,1,2
+976,F11,SRR5239757,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,2,5,7,5,1,2,6
+977,F15,SRR5239763,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,8,4,3,5,1,2,10
+978,F1521,SRR5239762,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+979,F1822,SRR5239764,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,1,1,2
+980,F2229,SRR5239765,France,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+981,I1718,SRR5239784,Italy,Europe,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+982,M12,SRR5239783,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+983,M17,SRR5239781,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,1,2,2,1,2,1,8
+984,M6,SRR5239756,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,5,7,8,7,3,6,3
+985,M7,SRR5239776,USA,North America,,,blood,PRJNA361477,,4,4,2019-07-14,2019-09-11,6,6,5,2,3,4,19
+986,P35_2,SRR5239766,Taiwan,Asia,,,oral swab,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,7,34,10,5,22,136
+987,P35_3,SRR5239759,Taiwan,Asia,,,oral swab,PRJNA361477,,4,4,2019-07-14,2019-09-11,7,7,34,10,5,22,136
+988,CCTCC_M202019,SAMN02981566,China,Asia,,,other,PRJNA218162,industrial strain,4,4,2019-07-14,2019-09-11,8,5,3,5,1,1,15
+990,CMRL-01,SRR3154166,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,7,7,11,10,5,9,16
+991,CMRL-02,SRR3154234,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,7,7,11,10,5,9,16
+992,CMRL-03,SRR3151533,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,8,4,3,5,1,2,10
+993,CMRL-04,SRR3151534,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,8,4,3,5,1,2,10
+994,CMRL-05,SRR4198629,Australia,Oceania,Sydney,,other,PRJNA310957,,4,4,2019-07-14,2019-09-11,7,4,3,4,1,8,26
+995,CMRL-09,SRR3154235,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,5,7,54,7,3,6,174
+996,CMRL-10,SRR3154236,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,7,4,3,4,1,8,26
+997,CMRL-11,SRR3154237,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,31,30,55,13,20,25,175
+998,CMRL-12,SRR3154238,Australia,Oceania,Sydney,,blood,PRJNA310957,,4,4,2019-07-14,2019-09-11,3,4,4,3,3,4,7
+999,ATCC_66032,,USA,North America,,,unknown,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,2,5,7,5,1,2,6
+1000,CAS08-0094,CGA00132,USA,North America,Georgia,2008,blood,,,4,4,2019-07-15,2019-07-15,19,50,1,51,51,51,106
+1001,CAS08-0725,CMD00311,USA,North America,Maryland,2008,blood,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,1,2,2,1,1,1,2
+1002,CAS09-0869,CMD00373,USA,North America,Maryland,2009,blood,,Msh2 isoform: V239L,4,4,2019-07-15,2019-07-15,1,2,2,1,1,1,2
+1003,CAS09-1083,CGA00822; SRR3925742,USA,North America,Georgia,2009,blood,PRJNA329124,Msh2 isoform: V239L/A942T,4,4,2019-07-15,2019-09-18,8,4,3,5,1,2,10
+1004,CAS09-1225,CGA00908,USA,North America,Georgia,2009,blood,,Msh2 isoform: V239L/A942T,4,4,2019-07-15,2019-07-15,2,5,7,5,1,2,6
+1005,CAS09-1437,CGA01045,USA,North America,Georgia,2009,blood,,Msh2 isoform: V239L/A942T,4,4,2019-07-15,2019-07-15,8,4,3,5,1,2,10
+1006,CAS09-1786,CGA01258; SRR3925748,USA,North America,Georgia,2009,blood,PRJNA329124,Msh2 isoform: V239L/A942T,4,4,2019-07-15,2019-09-18,2,5,7,5,1,2,6
+1007,CAS11-3112,CGA02083; SRR3925750,USA,North America,Georgia,2011,blood,PRJNA329124,,4,4,2019-07-15,2019-09-18,1,2,2,1,2,1,8
+1008,CAS11-3129,CMD01408; SRR3925751,USA,North America,Maryland,2011,blood,PRJNA329124,,4,4,2019-07-15,2019-09-18,7,7,11,10,5,9,16
+1009,CAS13-4867,CGA03071,USA,North America,Georgia,2013,blood,,,4,4,2019-07-15,2019-07-15,7,4,3,4,1,8,26
+1010,DPK_159,,USA,North America,Houston (Texas),,blood,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,1,2,2,1,1,1,2
+1011,DPK_305,,USA,North America,Houston (Texas),,blood,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,8,4,3,5,1,2,10
+1012,DPK_762,,USA,North America,Houston (Texas),,blood,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,8,5,3,5,1,1,15
+1013,DPK_951,,USA,North America,Houston (Texas),,blood,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,7,7,11,10,5,9,16
+1014,DPL155,M234,USA,North America,,,unknown,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,2,5,7,5,1,2,6
+1015,DPL157,1735/CGC2,USA,North America,Cleveland (Ohio),,unknown,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,2,5,7,5,1,2,6
+1016,DPL238,20551/099,USA,North America,Iowa,,unknown,,,4,4,2019-07-15,2019-07-15,8,5,13,9,3,1,17
+1017,DPL245,1611,USA,North America,Cleveland (Ohio),,unknown,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,7,7,11,10,5,9,16
+1018,DPL27,5962,USA,North America,,,unknown,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,1,2,2,1,1,1,2
+1019,DPL274,3-CPH-W20800,Denmark,Europe,,,unknown,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,8,5,3,5,1,1,15
+1020,DPL38,42997,USA,North America,,,unknown,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,7,7,11,10,5,9,16
+1021,DPL40,52889,USA,North America,,,unknown,,,4,4,2019-07-15,2019-07-15,30,4,3,5,1,2,168
+1022,DPL51,M217,USA,North America,,,unknown,,,4,4,2019-07-15,2019-07-15,7,1,1,6,4,4,1
+1023,India_05,382/P/12,India,Asia,Delhi,,vaginal swab,,,4,4,2019-07-15,2019-07-15,3,6,5,9,3,4,162
+1024,India_86,1192/P/15,India,Asia,Delhi,,blood,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,8,29,45,4,3,9,172
+1025,India_88,1402/P/15,India,Asia,Delhi,,blood,,Msh2 isoform: V239L,4,4,2019-07-15,2019-07-15,51,24,49,30,51,6,147
+1026,India_89,1424/P/15,India,Asia,Delhi,,blood,,Msh2 isoform: V239L,4,4,2019-07-15,2019-07-15,7,28,17,5,1,24,171
+1027,India_93,137/P/16,India,Asia,Delhi,,blood,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,7,1,53,7,19,6,173
+1028,WSU85-14,,USA,North America,Detroit (Michigan),2014,vaginal swab,,Msh2 isoform: Q259H,4,4,2019-07-15,2019-07-15,7,4,3,11,1,11,169
+1029,WSU599-02,,USA,North America,Detroit (Michigan),2002,vaginal swab,,Msh2 isoform: V239L,4,4,2019-07-15,2019-07-15,20,13,22,9,3,2,46
+1030,WSU057-02,,USA,North America,Detroit (Michigan),2002,vaginal swab,,Msh2 isoform: WT,4,4,2019-07-15,2019-07-15,1,2,2,1,2,1,8
+1031,Qatar_17,,Qatar,Asia,Doha,,blood,,,4,4,2019-07-15,2019-07-15,5,27,8,7,3,6,170
+1032,Qatar_36,,Qatar,Asia,Doha,,blood,,,4,4,2019-07-15,2019-07-15,1,2,2,1,1,1,2
+1033,Qatar_38,,Qatar,Asia,Doha,,blood,,,4,4,2019-07-15,2019-07-15,8,5,3,5,1,1,15
+1034,Qatar_39,,Qatar,Asia,Doha,,blood,,,4,4,2019-07-15,2019-07-15,7,28,17,5,1,24,171
+1035,Qatar_40,,Qatar,Asia,Doha,,blood,,Msh2 isoform: P208S/N890I,4,4,2019-07-15,2019-07-15,7,28,17,5,1,24,171
+1036,Qatar_62,,Qatar,Asia,Doha,,blood,,Msh2 isoform: E231G/L269F,4,4,2019-07-15,2019-07-15,20,13,22,9,3,2,46
+1037,CNM-CL9829,,Spain,Europe,Madrid,2016,blood,,Patient 1,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1038,CNM-CL9835,,Spain,Europe,Madrid,2016,medical device,,Patient 1,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1039,CNM-CL9975,,Spain,Europe,Madrid,2016,blood,,Patient 1; FKS2 HS1 mutation: D666H,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1040,CNM-CL9877,,Spain,Europe,Madrid,2016,blood,,Patient 1; FKS2 HS1 mutation: L664R,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1041,CNM-CL9889,,Spain,Europe,Madrid,2016,blood,,Patient 1; FKS2 HS1 mutation: L664R,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1042,CNM-CL9857,,Spain,Europe,Madrid,2016,blood,,Patient 2,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1043,CNM-CL9883,,Spain,Europe,Madrid,2016,ascites,,Patient 2; FKS2 HS1 mutation: D666E,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1044,CNM-CL9897,,Spain,Europe,Madrid,2016,blood,,Patient 2; FKS2 HS1 mutation: S663P,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1045,CNM-CL9931,,Spain,Europe,Madrid,2016,blood,,Patient 3; FKS2 HS1 deletion in F659,5,4,2019-07-18,2019-07-18,1,2,2,1,1,1,2
+1046,CNM-CL9939,,Spain,Europe,Madrid,2016,blood,,Patient 3; FKS2 HS1 deletion in F659,5,4,2019-07-18,2019-07-18,1,2,2,1,1,1,2
+1047,CNM-CL9991,,Spain,Europe,Madrid,2016,blood,,Patient 3; FKS2 HS1 deletion in F659,5,4,2019-07-18,2019-07-18,1,2,2,1,1,1,2
+1048,CNM-CL9932,,Spain,Europe,Madrid,2016,blood,,Patient 4; FKS2 HS1 mutation: S663P,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1049,CNM-CL9981,,Spain,Europe,Madrid,2016,blood,,Patient 4; FKS2 HS1 mutation: S663P,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1050,CNM-CL9992,,Spain,Europe,Madrid,2016,blood,,Patient 4; FKS2 HS1 mutation: S663P,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1051,CNM-CL9646,,Spain,Europe,Madrid,2015,blood,,Patient 5; FKS2 HS1 mutation: D666N,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1052,CNM-CL9775,,Spain,Europe,Madrid,2015,blood,,Patient 5; FKS2 HS1 mutation: D666N,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1053,CNM-CL9988,,Spain,Europe,Madrid,2016,blood,,Patient 5; FKS2 HS1 mutation: D666N,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1054,CNM-CL10047,,Spain,Europe,Madrid,2017,blood,,Patient 5; FKS2 HS1 deletion in F659 and mutation D666N,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1055,CNM-CL9210,,Spain,Europe,Madrid,2012,blood,,,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1056,CNM-CL9215,,Spain,Europe,Madrid,2012,blood,,,5,4,2019-07-18,2019-07-18,7,25,51,7,51,4,149
+1057,CNM-CL9269,,Spain,Europe,Madrid,2012,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1058,CNM-CL9332,,Spain,Europe,Madrid,2013,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1059,CNM-CL9342,,Spain,Europe,Madrid,2013,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1060,CNM-CL9392,,Spain,Europe,Madrid,2013,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1061,CNM-CL9555,,Spain,Europe,Madrid,2014,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1062,CNM-CL9571,,Spain,Europe,Madrid,2014,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1063,CNM-CL9780,,Spain,Europe,Madrid,2015,blood,,,5,4,2019-07-18,2019-07-18,6,6,5,2,3,4,19
+1064,CNM-CL9785,,Spain,Europe,Madrid,2015,ascites,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1065,CNM-CL9862,,Spain,Europe,Madrid,2016,blood,,,5,4,2019-07-18,2019-07-18,2,5,7,5,1,2,6
+1066,CNM-CL9906,,Spain,Europe,Madrid,2016,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1067,CNM-CL10190,,Spain,Europe,Madrid,2017,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1068,CNM-CL10194,,Spain,Europe,Madrid,2017,blood,,,5,4,2019-07-18,2019-07-18,5,7,8,7,3,6,3
+1069,CBS138,ATCC2001; ERR1938089,Unknown,,,,unknown,PRJEB20459,genome reference strain www.candidagenome.org,4,4,2019-08-20,2019-09-12,8,5,3,5,1,1,15
+1070,Y1640,ERR1938082,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,1,1,2
+1071,Y1641,ERR1938083,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,4,3,5,1,2,10
+1072,Y1642,ERR1938084,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,2,1,8
+1073,Y1643,ERR1938085,UK,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,1,1,2
+1074,Y1645,ERR1938087,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,2,1,8
+1075,Y1646,ERR1938088,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,6,6,5,2,3,4,19
+1076,Y612,ERR1938042,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1077,Y613,ERR1938043,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,6,6,5,2,3,4,19
+1078,Y614,ERR1938044,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1079,Y615,ERR1938045,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,3,9,26,4,17,4,148
+1080,Y616,ERR1938046,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,16,9,32,50,50,178
+1081,Y617,ERR1938047,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,3,6,22,2,3,9,55
+1082,Y618,ERR1938048,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,4,3,4,1,3,18
+1083,Y619,ERR1938049,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,3,9,26,4,17,4,148
+1084,Y620,ERR1938050,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1085,Y621,ERR1938051,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,2,1,8
+1086,Y622,ERR1938052,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,4,3,4,1,3,18
+1087,Y623,ERR1938053,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1088,Y624,ERR1938054,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,5,13,9,3,1,17
+1089,Y625,ERR1938055,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,3,9,26,4,17,4,148
+1090,Y626,ERR1938056,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,5,3,5,1,26,176
+1091,Y627,ERR1938057,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,4,3,5,1,2,10
+1092,Y640,ERR1938058,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,12,4,16,5,1,8,25
+1093,Y641,ERR1938059,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,5,3,5,1,1,15
+1094,Y643,ERR1938060,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,3,4,4,3,3,4,7
+1095,Y644,ERR1938061,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1096,Y645,ERR1938062,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,2,5,7,5,1,2,6
+1097,Y646,ERR1938063,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,5,3,5,1,1,15
+1098,Y647,ERR1938064,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,8,5,13,9,3,1,17
+1099,Y648,ERR1938065,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,5,7,8,7,3,6,3
+1100,Y649,ERR1938066,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,5,6,12,1,8,22
+1101,Y650,ERR1938067,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,5,6,12,1,8,22
+1102,Y651,ERR1938068,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,2,1,8
+1103,Y653,ERR1938069,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,6,6,5,2,3,4,19
+1104,Y654,ERR1938070,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,6,6,5,2,3,4,19
+1105,Y655,ERR1938071,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,6,6,5,2,3,4,19
+1106,Y656,ERR1938072,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,1,1,2
+1107,Y659,ERR1938073,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,10,31,16,31,1,2,177
+1108,Y660,ERR1938074,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,10,31,16,31,1,2,177
+1109,Y661,ERR1938075,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,10,31,16,31,1,2,177
+1110,Y662,ERR1938076,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,10,31,16,31,1,2,177
+1111,Y663,ERR1938077,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,5,6,12,1,8,22
+1112,Y664,ERR1938078,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,12,4,16,5,1,8,25
+1113,Y665,ERR1938079,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,5,6,12,1,8,22
+1114,Y666,ERR1938080,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,7,5,6,12,1,8,22
+1115,Y667,ERR1938081,Denmark,Europe,,,unknown,PRJEB20459,,4,4,2019-09-12,2019-09-12,1,2,2,1,2,1,8
+1116,SAT01BAL,SRR8241569,France,Europe,,2007,bronchoalveolar lavage,PRJNA506893,,4,4,2019-09-18,2019-09-18,3,6,22,2,3,9,55
+1117,SAT02PL,SRR8241570,France,Europe,,2007,other,PRJNA506893,consecutive to SAT01BAL,4,4,2019-09-18,2019-09-18,3,6,22,2,3,9,55
+1118,SAT03BC,SRR8241571,France,Europe,,2007,blood,PRJNA506893,consecutive to SAT01BAL,4,4,2019-09-18,2019-09-18,3,6,22,2,3,9,55
+1119,040-cg,SRR8953803,Portugal,Europe,Porto,2013,blood,PRJNA525402,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1120,044-cg,SRR8953802,Portugal,Europe,Porto,2013,blood,PRJNA525402,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1121,OL152-cg,SRR8953804,Portugal,Europe,Porto,2013,urine,PRJNA525402,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1122,CAS08-0012,SRR3925732,USA,North America,,2008,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1123,CAS08-0094_GS,SRR3925769,USA,North America,,2008,unknown,PRJNA329124,deduced ST different from CAS08-0094,4,4,2019-09-18,2019-09-18,10,14,12,11,3,2,76
+1124,CAS08-0270,SRR3925734,USA,North America,,2008,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1125,CAS08-0430,SRR3925737,USA,North America,,2008,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1126,CAS09-0820,SRR3925739,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,7,4,3,11,1,11,169
+1127,CAS09-0869_GS,SRR3925740,USA,North America,,2009,unknown,PRJNA329124,deduced ST different from CAS09-0869,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1128,CAS09-0876,SRR3925741,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,7,4,3,11,1,11,169
+1129,CAS09-1084,SRR3925743,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1130,CAS09-1104,SRR3925745,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1131,CAS09-1648,SRR3925746,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1132,CAS09-1784,SRR3925747,USA,North America,,2009,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,7,5,6,12,1,8,22
+1133,CAS11-3144,SRR3925752,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1134,CAS11-3145,SRR3925753,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1135,CAS11-3302,SRR3925754,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1136,CAS11-3389,SRR3925756,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1137,CAS11-3527,SRR3925757,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1138,CAS11-3570,SRR3925758,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1139,CAS11-3606,SRR3925759,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1140,CAS11-3609,SRR3925760,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1141,CAS11-4416,SRR3925761,USA,North America,,2011,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1142,CAS12-4417,SRR3925762,USA,North America,,2012,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1143,CAS12-4418,SRR3925763,USA,North America,,2012,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1144,CAS13-4503,SRR3925764,USA,North America,,2013,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1145,CAS13-5051,SRR3925765,USA,North America,,2013,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1146,CAS13-5084,SRR3925767,USA,North America,,2013,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1147,CAS14-5795,SRR3925768,USA,North America,,2014,unknown,PRJNA329124,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1148,CAS08-0069_GS,SRR8697397,USA,North America,,2008,blood,PRJNA524686,deduced ST different from CAS08-0069,4,4,2019-09-18,2019-09-18,7,7,59,10,5,9,187
+1149,CAS08-0175,SRR8697486,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,56,1,2,1,184
+1150,CAS08-0271,SRR8697282,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,10,5,2,3,4,95
+1151,CAS08-0439,SRR3925738; SRR8697487,USA,North America,,2008,blood,PRJNA329124; PRJNA524686,,4,1,2019-09-18,2019-12-09,8,4,3,5,1,2,10
+1152,CAS08-0525_GS,SRR8697425,USA,North America,,2008,blood,PRJNA524686,deduced ST different from CAS08-0525,4,4,2019-09-18,2019-09-18,5,7,58,7,3,6,185
+1153,CAS08-0535,SRR8697314,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1154,CAS08-0557,SRR8697366,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1155,CAS08-0558,SRR8697380,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1156,CAS08-0559,SRR8697483,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,12,22,2,3,4,56
+1157,CAS08-0569_GS,SRR8697493,USA,North America,,2008,blood,PRJNA524686,deduced ST different from CAS08-0569,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1158,CAS08-0603,SRR8697279,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1159,CAS08-0616,SRR8697343,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1160,CAS08-0627,SRR8697427,USA,North America,,2008,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1161,CAS08-0725_GS,SRR8697475,USA,North America,,2008,blood,PRJNA524686,deduced ST different from CAS08-0725,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1162,32666,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,3,6,22,7,3,9,190
+1163,CAS09-0811,SRR8697466,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,18,11,10,5,9,60
+1164,CAS09-0818,SRR8697461,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1165,CAS09-0872,SRR8697309,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1166,CAS09-0901,SRR8697302,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1167,CAS09-0930,SRR8697412,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1168,CAS09-0993,SRR8697424,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1169,CAS09-0997,SRR8697372,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1170,CAS09-1021,SRR8697327,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,10,9,19,5,1,2,83
+1171,CAS09-1091,SRR8697328,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1172,CAS09-1195,SRR8697367,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1173,CAS09-1343,SRR8697501,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1174,CAS09-1352,SRR8697492,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1175,CAS09-1450,SRR8697441,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1176,CAS09-1513,SRR8697489,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1177,CAS09-1536,SRR8697485,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1178,CAS09-1601,SRR8697387,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,60,7,3,6,188
+1179,CAS09-1622,SRR8697371,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1180,CAS09-1798,SRR8697346,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1181,CAS09-1809,SRR8697354,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,4,4,3,3,4,7
+1182,CAS10-1832,SRR8697494,USA,North America,,2009,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1183,CAS10-1862,SRR8697396,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1184,CAS10-1893,SRR8697384,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1185,CAS10-1895,SRR8697480,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,13,9,3,1,17
+1186,CAS10-1919,SRR8697490,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1187,CAS10-1922,SRR8697414,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1188,CAS10-1929,SRR8697270,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1189,CAS10-1962,SRR8697507,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1190,CAS10-1964,SRR8697267,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1191,CAS10-1984,SRR8697458,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1192,CAS10-1985,SRR8697291,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1193,CAS10-1986,SRR8697394,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,4,4,3,3,4,7
+1194,CAS10-2006,SRR8697395,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1195,CAS10-2048,SRR8697296,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,20,13,22,9,3,4,
+1196,CAS10-2124,SRR8697271,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1197,CAS10-2289,SRR8697352,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,12,22,2,3,4,56
+1198,CAS10-2308,SRR8697365,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1199,CAS10-2449,SRR8697479,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1200,CAS10-2472,SRR8697434,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,34,3,4,180
+1201,CAS10-2476,SRR8697449,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1202,CAS10-2478,SRR8697382,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1203,CAS10-2487,SRR8697289,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1204,CAS10-2501,SRR8697281,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1205,CAS10-2517,SRR8697502,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1206,CAS10-2533,SRR8697377,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1207,CAS10-2547,SRR8697433,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1208,CAS10-2553,SRR8697505,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1209,CAS10-2554,SRR8697294,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1210,CAS10-2558,SRR8697411,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1211,CAS10-2559,SRR8697443,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1212,CAS10-2592,SRR8697363,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1213,CAS10-2611,SRR8697290,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1214,CAS10-2615,SRR8697286,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1215,CAS10-2626,SRR8697410,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1216,CAS10-2717,SRR8697272,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1217,CAS10-2720,SRR8697321,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,21,4,181
+1218,CAS10-2732,SRR8697349,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1219,CAS10-2733,SRR8697280,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1220,CAS10-2750,SRR8697508,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1221,CAS11-2802,SRR8697436,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1222,CAS11-2817,SRR8697465,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1223,CAS11-2831,SRR8697447,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1224,CAS11-2834,SRR8697457,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1225,CAS11-2853,SRR8697276,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1226,CAS11-2870,SRR8697374,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1227,CAS11-2914,SRR8697499,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1228,CAS11-2931,SRR8697368,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1229,CAS11-2934,SRR8697341,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1230,CAS11-2972,SRR8697342,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1231,CAS11-2978,SRR3925749; SRR8697340,USA,North America,,2011,blood,PRJNA329124; PRJNA524686,,4,1,2019-09-18,2019-12-09,7,7,11,10,5,9,16
+1232,CAS11-2985,SRR8697472,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1233,CAS11-3018,SRR8697462,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,13,9,3,1,17
+1234,CAS11-3122,SRR8697467,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1235,CAS11-3232,SRR8697344,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,32,3,4,1,8,182
+1236,CAS11-3233,SRR8697456,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1237,CAS11-3234,SRR8697463,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1238,CAS11-3247,SRR8697437,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1239,CAS11-3248,SRR8697298,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,9,26,17,9,2,45
+1240,CAS11-3264,SRR8697331,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1241,CAS11-3297,SRR8697504,USA,North America,,2010,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1242,CAS11-3344,SRR8697283,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1243,CAS11-3345,SRR8697320,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1244,CAS11-3390,SRR8697496,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1245,CAS11-3395,SRR8697476,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1246,CAS11-3433,SRR8697401,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1247,CAS11-3481,SRR8697369,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1248,CAS11-3482,SRR8697375,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1249,CAS12-3674,SRR8697350,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,12,22,2,3,4,56
+1250,CAS12-3684,SRR8697392,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1251,CAS12-3690,SRR8697405,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1252,CAS12-3692,SRR8697429,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1253,CAS12-3698,SRR8697295,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,13,9,3,1,17
+1254,CAS12-3708,SRR8697477,USA,North America,,2011,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1255,CAS12-3737,SRR8697300,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1256,CAS12-3739,SRR8697419,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,5,6,12,1,8,22
+1257,CAS12-3810,SRR8697503,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1258,CAS12-3900,SRR8697481,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,57,4,1,3,186
+1259,CAS12-3946,SRR8697358,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1260,CAS12-3949,SRR8697284,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1261,CAS12-3950,SRR8697287,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1262,CAS12-3951,SRR8697353,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1263,CAS12-3980,SRR8697448,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,33,5,61,12,1,2,189
+1264,CAS12-3983,SRR8697404,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1265,CAS12-3998,SRR8697362,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1266,CAS12-4008,SRR8697305,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1267,CAS12-4022,SRR8697265,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1268,CAS12-4046,SRR8697471,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1269,CAS12-4098,SRR8697288,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1270,CAS12-4099,SRR8697389,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1271,CAS12-4162,SRR8697399,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1272,CAS12-4163,SRR8697453,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,4,4,3,3,4,7
+1273,CAS12-4176,SRR8697264,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1274,CAS12-4212,SRR8697275,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1275,CAS12-4215,SRR8697426,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,2,1,8
+1276,CAS12-4242,SRR8697361,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1277,CAS12-4323,SRR8697451,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1278,CAS12-4380,SRR8697317,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1279,CAS12-4440,SRR8697303,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,4,4,3,3,4,7
+1280,CAS13-4493,SRR8697325,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1281,CAS13-4530,SRR8697440,USA,North America,,2012,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1282,CAS13-4641,SRR8697417,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,59,10,5,9,187
+1283,CAS13-4648,SRR8697335,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,10,14,12,11,3,2,76
+1284,CAS13-4714,SRR8697310,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1285,CAS13-4735,SRR8697388,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,1,2,2,1,1,1,2
+1286,CAS13-4776,SRR8697373,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,18,11,10,5,9,60
+1287,CAS13-4777,SRR8697322,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1288,CAS13-4778,SRR8697273,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1289,CAS13-4791,SRR8697360,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1290,CAS13-4813,SRR8697323,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1291,CAS13-4841,SRR8697386,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1292,CAS13-4862,SRR8697378,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1293,CAS13-4866,SRR8697500,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1294,CAS13-4878,SRR8697398,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,32,4,3,5,1,2,183
+1295,CAS13-4970,SRR8697416,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1296,CAS13-5030,SRR8697406,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1297,CAS13-5037,SRR8697277,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1298,CAS13-5109,SRR8697345,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1299,CAS13-5134,SRR8697307,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1300,CAS13-5140,SRR8697464,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1301,CAS13-5158,SRR8697488,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1302,CAS13-5210,SRR8697444,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1303,CAS13-5237,SRR8697418,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1304,CAS13-5239,SRR8697324,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1305,CAS13-5245,SRR8697445,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,3,9,8,1,5,4
+1306,CAS14-5293,SRR8697478,USA,North America,,2013,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1307,CAS14-5468,SRR8697381,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1308,CAS14-5492,SRR8697430,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1309,CAS14-5498,SRR8697506,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1310,CAS14-5518,SRR8697413,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1311,CAS14-5563,SRR8697482,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1312,CAS14-5589,SRR8697319,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1313,CAS14-5591,SRR8697468,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,10,5,2,3,4,95
+1314,CAS14-5641,SRR8697311,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1315,CAS14-5647,SRR8697491,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1316,CAS14-5770,SRR8697356,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,2,5,7,5,1,2,6
+1317,CAS14-5851,SRR8697329,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1318,CAS14-5908,SRR8697355,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1319,CAS14-5951,SRR8697318,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1320,CAS14-5982,SRR8697351,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1321,CAS14-5984,SRR8697422,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1322,CAS14-5989,SRR8697370,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1323,CAS14-6054,SRR8697326,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1324,CAS15-6171,SRR8697469,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1325,CAS15-6184,SRR8697495,USA,North America,,2014,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1326,CAS15-6228,SRR8697510,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1327,CAS15-6272,SRR8697301,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1328,CAS15-6297,SRR8697460,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1329,CAS15-6327,SRR8697304,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,4,4,3,3,4,7
+1330,CAS15-6394,SRR8697390,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1331,CAS15-6404,SRR8697409,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1332,CAS15-6472,SRR8697450,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1333,CAS15-6569,SRR8697336,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1334,CAS15-6616,SRR8697306,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1335,CAS15-6673,SRR8697330,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1336,CAS15-6677,SRR8697313,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1337,CAS15-6682,SRR8697438,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1338,CAS15-6696,SRR8697293,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1339,CAS15-6812,SRR8697455,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1340,CAS15-6814,SRR8697446,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1341,CAS16-6890,SRR8697297,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1342,CAS16-6915,SRR8697332,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1343,CAS16-6927,SRR8697338,USA,North America,,2015,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1344,CAS16-6951,SRR8697357,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1345,CAS16-7048,SRR8697359,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1346,CAS16-7105,SRR8697421,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1347,CAS16-7155,SRR8697299,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1348,CAS16-7231,SRR8697316,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1349,CAS16-7332,SRR8697470,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,3,12,22,2,3,4,56
+1350,CAS16-7378,SRR8697268,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1351,CAS16-7380,SRR8697431,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,3,5,1,1,15
+1352,CAS16-7397,SRR8697292,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1353,CAS16-7403,SRR8697266,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1354,CAS16-7419,SRR8697385,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1355,CAS16-7440,SRR8697339,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1356,CAS16-7442,SRR8697337,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,1,
+1357,CAS16-7452,SRR8697315,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,5,7,8,7,3,6,3
+1358,CAS16-7462,SRR8697497,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1359,CAS16-7574,SRR8697442,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,5,1,2,10
+1360,CAS16-7575,SRR8697432,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1361,CAS16-7592,SRR8697498,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,6,6,5,2,3,4,19
+1362,CAS16-7596,SRR8697274,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,5,13,9,3,1,17
+1363,CAS17-7689,SRR8697400,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,10,5,19,19,1,17,43
+1364,CAS17-7704,SRR8697423,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1365,CAS17-7712,SRR8697348,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,7,11,10,5,9,16
+1366,CAS17-7728,SRR8697435,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,7,4,3,4,1,3,18
+1367,CAS17-7768,SRR8697278,USA,North America,,2016,blood,PRJNA524686,,4,4,2019-09-18,2019-09-18,8,4,3,33,1,2,179
+1368,32611,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,5,7,8,3,3,6,191
+1369,MFCCKHY00059,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,7,5,6,7,1,8,192
+1370,MFCCKHY00054,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,7,9,26,3,9,2,193
+1371,32667,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,10,5,19,7,1,17,194
+1372,32671,,South Korea,Asia,,,unknown,,,41,4,2019-12-16,2019-12-16,10,21,10,4,1,9,195
+1373,1074991,,South Korea,Asia,Gyeonggi-do,2018,blood,,,56,4,2020-10-27,2020-10-27,3,4,4,3,3,28,200
+1374,E482,CF001,China,Asia,Shenzhen,2020,vaginal swab,,,60,4,2020-11-16,2020-11-16,10,5,19,5,1,17,201
+1375,E647,,China,Asia,Shenzhen,2020,vaginal swab,,,60,4,2020-12-23,2020-12-23,7,9,26,26,24,2,202
